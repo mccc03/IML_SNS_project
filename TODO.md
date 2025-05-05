@@ -1,0 +1,3 @@
+- Binning tenure
+- Remove useless features and possible redundancies: gender, monthly charges (can be derived from tenure and total charges)
+- New features, eg difference between MonthlyCharges and TotalCharges/tenure
