@@ -17,3 +17,6 @@ dependencies:
     - datasets
     - torchtext
     - optuna
+    - ipywidgets
+    - tqdm
+    - widgetsnbextension
