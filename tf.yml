@@ -1,0 +1,22 @@
+name: project2-tf
+channels:
+    - conda-forge
+    - anaconda
+    - defaults
+dependencies:
+    - jupyter 
+    - tensorflow
+    - numpy
+    - matplotlib
+    - pandas
+    - chardet
+    - nltk
+    - seaborn
+    - scikit-learn
+    - transformers
+    - datasets
+    - optuna
+    - ipywidgets
+    - tqdm
+    - widgetsnbextension
+    
